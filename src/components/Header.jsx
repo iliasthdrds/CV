@@ -8,21 +8,21 @@ export default function Header() {
             <p className="subtitle">Front-End Developer</p>
             <div className="info">
                 <span className="info-item">
-                    <img src="/map-icon.png" alt="location" className="icon" />
+                    <img src="./map-icon.png" alt="location" className="icon" />
                         Kozani, Greece
                 </span>
                 <span className="info-item">
-                    <img src="/email-icon.png" alt="email" className="icon" />
+                    <img src="./email-icon.png" alt="email" className="icon" />
                       ilias.thdrds@gmail.com
                 </span>
             </div>
          <div className="buttons">
   <a href="https://github.com/iliasthdrds" target="_blank" rel="noopener noreferrer" className="btn-git">
-    <img src="/github.png"  className="btn-icon" />
+    <img src="./github.png"  className="btn-icon" />
     /iliasthdrds
   </a>
   <a href="https://linkedin.com/in/iliasthdrds" target="_blank" rel="noopener noreferrer" className="btn-lnkdin">
-    <img src="/linkedin.png"  className="btn-icon" />
+    <img src="./linkedin.png"  className="btn-icon" />
     /iliasthdrds
   </a>
 </div>
