@@ -19,7 +19,7 @@ export default function Main() {
           <span className="field1">Bsc in Science and Technology of Telecommunications</span>
         </div>
         <span className="section-date">
-           <img src="/date.png" alt="calendar" className="calendar-icon" />
+           <img src="./date.png" alt="calendar" className="calendar-icon" />
           Sep 2009 - Jul 2023</span>
       </div>
 
@@ -31,7 +31,7 @@ export default function Main() {
           <div className="job-date-row">
             <span className="job">Studying web development independently through platforms like Udemy and freeCodeCamp. Completing hands-on projects to deepen my understanding of both frontend and backend technologies.</span>
             <span className="section-date">
-              <img src="/date.png" alt="calendar" className="calendar-icon" />
+              <img src="./date.png" alt="calendar" className="calendar-icon" />
               Jan 2025 - Today
             </span>
           </div>
