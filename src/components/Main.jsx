@@ -19,7 +19,7 @@ export default function Main() {
           <span className="field1">Bsc in Science and Technology of Telecommunications</span>
         </div>
         <span className="section-date">
-           <img src="./date.png" alt="calendar" className="calendar-icon" />
+           <img src="/C/date.png" alt="calendar" className="calendar-icon" />
           Sep 2009 - Jul 2023</span>
       </div>
 
@@ -31,7 +31,7 @@ export default function Main() {
           <div className="job-date-row">
             <span className="job">Studying web development independently through platforms like Udemy and freeCodeCamp. Completing hands-on projects to deepen my understanding of both frontend and backend technologies.</span>
             <span className="section-date">
-              <img src="./date.png" alt="calendar" className="calendar-icon" />
+              <img src="/C/date.png" alt="calendar" className="calendar-icon" />
               Jan 2025 - Today
             </span>
           </div>
@@ -39,7 +39,7 @@ export default function Main() {
             <span className="job">I owned and managed my own business in the food service industry. This role involved overseeing daily operations, managing customer service, coordinating tasks, and handling financial and administrative responsibilities. Through this experience, I developed strong communication skills, effective time management, and organizational abilities, ensuring smooth business functioning and growth.
             <br />Additionally, I maintained an active interest in technology, applying digital tools to optimize business processes and improve efficiency.</span>
             <span className="section-date">
-              <img src="/date.png" alt="calendar" className="calendar-icon" />
+              <img src="/C/date.png" alt="calendar" className="calendar-icon" />
               Oct 2017 - Mar 2025
             </span>
           </div>
