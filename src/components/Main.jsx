@@ -87,7 +87,7 @@ export default function Main() {
               <span className="skill-tag">Git</span>
               <span className="skill-tag">Github</span>
               <span className="skill-tag">Vite</span>
-              <span className="skill-tag">npm</span>
+              
             </div>
             <div className="skills-subgroup"><span className="skills-subtitle">Ai tools</span>
               <span className="skill-tag">Copilot</span>
