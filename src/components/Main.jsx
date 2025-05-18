@@ -4,23 +4,26 @@ export default function Main() {
   return (
     <main className="main">
 
-      <div className="section-row">
+      <div className="section-row" style={{ alignItems: 'flex-start', position: 'relative' }}>
         <span className="section-label"> Education </span>
-        <div className="section-description">
-          <div className="info-line">
+        <div className="section-description" style={{ width: '100%' }}>
+          <div className="info-line" style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', width: '100%' }}>
             <div className="university-block">
-              <span className="field">Department of Informatics and Telecommunications</span>
-              <span className="university-name-location">
-                <span className="university-name">University of Peloponnese</span>
-                <span className="university-location">Tripoli, Greece</span>
+              <span className="field">
+                Department of Informatics<br />and Telecommunications
               </span>
             </div>
+            <span className="section-date">
+              <img src="/CV/date.png" alt="calendar" className="calendar-icon" />
+              Sep 2009 - Jul 2023
+            </span>
           </div>
-          <span className="field1">Bsc in Science and Technology of Telecommunications</span>
+          <span className="university-name-location">
+            <span className="university-name">University of Peloponnese</span>
+            <span className="university-location">Tripoli, Greece</span>
+          </span>
+          <span className="field1">Bsc in Science and Technology of <br />Telecommunications</span>
         </div>
-        <span className="section-date">
-           <img src="/CV/date.png" alt="calendar" className="calendar-icon" />
-          Sep 2009 - Jul 2023</span>
       </div>
 
        <div className="divider"></div>
@@ -29,7 +32,7 @@ export default function Main() {
         <span className="section-label"> Experience </span>
         <div className="section-description experience-description">
           <div className="job-date-row">
-            <span className="job">Studying web development independently through platforms like Udemy and freeCodeCamp. Completing hands-on projects to deepen my understanding of both frontend and backend technologies.</span>
+            <span className="job">Studying web development independently through platforms like Udemy and freeCodeCamp. Completing hands-on projects to deepen my understanding of both frontend technologies.</span>
             <span className="section-date">
               <img src="/CV/date.png" alt="calendar" className="calendar-icon" />
               Jan 2025 - Today

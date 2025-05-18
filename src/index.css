@@ -323,13 +323,13 @@ body {
 .skills-title {
   font-weight: 600;
   color: rgb(100, 116, 139);
-  font-size: 1.1rem;
+  font-size: 0.94em;
   margin-bottom: 0.2rem;
 }
 
 .skills-subgroup {
   display: flex;
-  align-items: center;
+ align-items: center;
   flex-wrap: wrap;
   gap: 0.5rem;
   margin-bottom: 0.2rem;
@@ -341,7 +341,7 @@ body {
   font-weight: 500;
   color: rgb(100, 116, 139);
   margin-right: 0.7rem;
-  font-size: 0.98rem;
+  font-size: 0.86rem;
 }
 
 .skill-tag {
@@ -349,7 +349,7 @@ body {
   color: #cbd5e1;
   border-radius: 8px;
   padding: 0.18em 0.9em;
-  font-size: 0.97em;
+  font-size: 0.67em;
   margin-bottom: 0.2em;
   display: inline-block;
   font-weight: 500;
@@ -375,6 +375,7 @@ body {
   color: rgb(100, 116, 139);
   flex: 2;
   min-width: 0;
+  font-size: 13px;
 }
 
 .job-date-row .section-date {
@@ -391,7 +392,7 @@ body {
   display: flex;
   gap: 1.2em;
   align-items: center;
-  font-size: 13px;
+  font-size: 11px;
   color: rgb(100, 116, 139);
   margin-bottom: 0.2em;
 }
@@ -403,5 +404,10 @@ body {
   
   color: rgb(100, 116, 139);
   opacity: 0.8;
+}
+
+.section-description .field {
+  padding-left: 0;
+  margin-left: 0;
 }
 
