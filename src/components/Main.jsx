@@ -59,7 +59,7 @@ export default function Main() {
             <div className="skills-title">Languages</div>
             <div className="skills-subgroup"><span className="skills-subtitle">FE related</span>
               <span className="skill-tag">HTML</span>
-              <span className="skill-tag">CSS/SCSS</span>
+              <span className="skill-tag">CSS</span>
               
               <span className="skill-tag">JavaScript</span>
             </div>
