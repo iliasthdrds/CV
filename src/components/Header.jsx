@@ -5,11 +5,11 @@ export default function Header() {
     <div className="header">
         <div className="header-content">
             <p className="name">Ilias Theodoridis</p>
-            <p className="subtitle">Front-End Developer</p>
+            {/* <p className="subtitle">Front-End Developer</p> */}
             <div className="info">
                 <span className="info-item">
                     <img src="/CV/map-icon.png" alt="location" className="icon" />
-                        Kozani, Greece
+                        Thessaloniki, Greece
                 </span>
                 <span className="info-item">
                     <img src="/CV/email-icon.png" alt="email" className="icon" />

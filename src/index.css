@@ -326,6 +326,21 @@ body {
   font-size: 0.94em;
   margin-bottom: 0.2rem;
 }
+.experience-title {
+  font-weight: 600;
+  color: rgb(100, 116, 139);
+  font-size: 0.94em;
+  margin-bottom: -15px;
+  margin-top: 2px;
+}
+
+.experience-subtitle {
+  font-weight: 600;
+  color: rgb(100, 116, 139);
+  font-size: 0.91em;
+  margin-bottom: -15px;
+  margin-top: -5px;
+}
 
 .skills-subgroup {
   display: flex;
